@@ -1,1 +1,16 @@
-# Ecommerce-app-using-flutter
+# Ecommerce app using Flutter
+
+PROJECT IDEA:
+
+- PROJECT IS AN E-COMMERCE APPLICATION.
+  
+- HOME PAGE TO VIEW THE AVAILABLE CATEGORIES.
+  
+- PAGE FOR YOUR SELECTED PRODUCTS.
+  
+- PAYMENT PROCESS PAGE AND LOCATION PRODUCTS TO SHIP.
+  
+- LOG IN, REGISTER.
+
+
+There is a DEMO video for app in the repo
